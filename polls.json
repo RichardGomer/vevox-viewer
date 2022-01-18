@@ -1,0 +1,1030 @@
+[
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732180",
+		"alias": null,
+		"text": "Which of the following can impact user experience?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790790",
+				"alias": null,
+				"text": "Accessibility",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790791",
+				"alias": null,
+				"text": "Usability",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790792",
+				"alias": null,
+				"text": "Efficiency",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790793",
+				"alias": null,
+				"text": "Utility or Usefulness",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732183",
+		"alias": null,
+		"text": "Which of the following interview questions could be described as a “closed” question?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790799",
+				"alias": null,
+				"text": "“Have you ever used an e-reader?”",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790800",
+				"alias": null,
+				"text": "“Tell me some things that you like or dislike about your e-reader.”",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790801",
+				"alias": null,
+				"text": "“What are some books that you’ve read on your e-reader in the last 12 months?”",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790802",
+				"alias": null,
+				"text": "“Do you prefer to read on your e-reader, or from a physical book?”",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732187",
+		"alias": null,
+		"text": "In which stages of the interaction design cycle might you expect to use interviews?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790858",
+				"alias": null,
+				"text": "Planning the user-centred process",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790859",
+				"alias": null,
+				"text": "Understand the context of use",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790860",
+				"alias": null,
+				"text": "Specify requirements",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790861",
+				"alias": null,
+				"text": "Produce design options",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790862",
+				"alias": null,
+				"text": "Evaluate options",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 5,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732194",
+		"alias": null,
+		"text": "Which of the following statements correctly describe interviews?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790877",
+				"alias": null,
+				"text": "An interview is a conversation with a purpose",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790878",
+				"alias": null,
+				"text": "An interview is a structured conversation",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790879",
+				"alias": null,
+				"text": "An interview can produce qualitative or quantitative data",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 3,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732202",
+		"alias": null,
+		"text": "Which of the following statements is/are TRUE about evaluation?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790896",
+				"alias": null,
+				"text": "Evaluation may take place in the lab or the field",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790897",
+				"alias": null,
+				"text": "Evaluation can involve expert or non-expert users",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790898",
+				"alias": null,
+				"text": "Evaluation necessarily involves observing a user interacting with a system",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790899",
+				"alias": null,
+				"text": "Evaluation methods can include interviews and focus groups",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716660",
+		"alias": "",
+		"text": "The Interactive Pillow prototype (pictured) was used by Häkkilä et al. (2014) to elicit audience interactions during movies. This is an example of:",
+		"image": "50740898-496a-4864-9c96-581997d1b967",
+		"choices": [
+			{
+				"id": "6738319",
+				"alias": null,
+				"text": "Virtual reality",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738320",
+				"alias": null,
+				"text": "Mobile interface",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738321",
+				"alias": null,
+				"text": "Touch interface",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738322",
+				"alias": null,
+				"text": "Tangible interface",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738323",
+				"alias": null,
+				"text": "Cultural probe",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 5,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716661",
+		"alias": "",
+		"text": "The following is true of low-fidelity prototypes (Lo-Fi):",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738324",
+				"alias": null,
+				"text": "Lo-Fi development is more resource-intensive when compared to high-fidelity prototyping.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738325",
+				"alias": null,
+				"text": "Lo-Fi allow the evaluation of multiple design concepts.",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738326",
+				"alias": null,
+				"text": "Lo-Fi can easily evolve into the final product.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738327",
+				"alias": null,
+				"text": "Lo-Fi are time-consuming to create.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738328",
+				"alias": null,
+				"text": "Lo-Fi are inefficient for proof-of-concept designs.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 5,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716682",
+		"alias": "",
+		"text": "In the context of interaction design, which of the following is the most complete description of a persona?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738412",
+				"alias": null,
+				"text": "Listings of the personality types of the participants in a thematic analysis process.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738413",
+				"alias": null,
+				"text": "Representations of certain types of customer, based upon generalisations from prior user research.",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738414",
+				"alias": null,
+				"text": "People employed for the purpose of reassuring participants during user research to model behaviour.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738415",
+				"alias": null,
+				"text": "A representation of one kind of interaction a person may encounter while testing a prototype.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738416",
+				"alias": null,
+				"text": "A fictitious name for participants in think-aloud evaluation sessions.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738417",
+				"alias": null,
+				"text": "An emotive artifact used to enable software engineers to think about people when making design decisions.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 6,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716701",
+		"alias": "",
+		"text": "Grounded theory is concerned with",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738486",
+				"alias": null,
+				"text": "testing whether gathered data fits into existing theories; used primarily for qualitative enquiry.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738487",
+				"alias": null,
+				"text": "developing theory from analysis of gathered data; used primarily for qualitative enquiry.",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738488",
+				"alias": null,
+				"text": "developing theory from analysis of gathered data; used primarily for quantitative enquiry.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738489",
+				"alias": null,
+				"text": "testing whether gathered data fits into existing theories; used primarily for quantitative enquiry.",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716706",
+		"alias": "",
+		"text": "You drag a folder to make a copy of its contents. An animation appears on the screen, showing files moving from one folder to another. This is an example of:",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738511",
+				"alias": null,
+				"text": "visibility",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738512",
+				"alias": null,
+				"text": "mapping",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738513",
+				"alias": null,
+				"text": "feedback",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738514",
+				"alias": null,
+				"text": "consistency",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738515",
+				"alias": null,
+				"text": "co-presence",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 5,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716707",
+		"alias": "",
+		"text": "You are evaluating a new flight control system to be used by an aircraft pilot. What would be an appropriate style of evaluation? ",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738516",
+				"alias": null,
+				"text": "Laboratory study",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738517",
+				"alias": null,
+				"text": "Field study",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738518",
+				"alias": null,
+				"text": "Longitudinal study",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738519",
+				"alias": null,
+				"text": "Ethnographic study",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716708",
+		"alias": "",
+		"text": "When evaluation occurs at the end of the design process on a fully working system it is called ",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738520",
+				"alias": null,
+				"text": "Formative",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738521",
+				"alias": null,
+				"text": "Cognitive",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738522",
+				"alias": null,
+				"text": "Summative",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738523",
+				"alias": null,
+				"text": "Qualitative",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716721",
+		"alias": "",
+		"text": "When designing for the Web, which of the following accessibility points should a designer consider?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738582",
+				"alias": null,
+				"text": "Designing tactile/haptic feedback",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738583",
+				"alias": null,
+				"text": "The size and contrast of text",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738584",
+				"alias": null,
+				"text": "Creating well-structured navigation",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738585",
+				"alias": null,
+				"text": "Ensuring that information is presented as text and not just as images",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716782",
+		"alias": "",
+		"text": "Which methods might a designer use to make an interface more usable for advanced users?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738732",
+				"alias": null,
+				"text": "keyboard accelerators/shortcuts",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738733",
+				"alias": null,
+				"text": "a command line interface",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738734",
+				"alias": null,
+				"text": "a conversational interface",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738735",
+				"alias": null,
+				"text": "more features that use the mouse pointer",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716801",
+		"alias": "",
+		"text": "Which of these are examples of an interface metaphor?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738801",
+				"alias": null,
+				"text": "The recycle bin on a Windows desktop",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738802",
+				"alias": null,
+				"text": "Amazon's shopping basket",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738803",
+				"alias": null,
+				"text": "The \"floating action button\" (fab) in Material design",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738804",
+				"alias": null,
+				"text": "The padlock icon in a Web browser address bar",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 4,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716810",
+		"alias": "",
+		"text": "Which of the following would a design team normally have produced, by the time they begin evaluating?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738861",
+				"alias": null,
+				"text": "A prototype (or final deliverable)",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738862",
+				"alias": null,
+				"text": "A direct manipulation interface",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738863",
+				"alias": null,
+				"text": "Lots of ideas",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738864",
+				"alias": null,
+				"text": "A focus group protocol",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738865",
+				"alias": null,
+				"text": "A conceptual model",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738866",
+				"alias": null,
+				"text": "A plan of the user-centred process",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 6,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1716830",
+		"alias": "",
+		"text": "In which of the following situations would interviews NOT be an appropriate data gathering method?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6738914",
+				"alias": null,
+				"text": "When participants are vulnerable and the study has been approved by a research ethics committee",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738915",
+				"alias": null,
+				"text": "When evaluating which of two alternative interfaces will encourage the most people to purchase a subscription",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6738916",
+				"alias": null,
+				"text": "When trying to find out participants' opinions about an interface",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 3,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1731995",
+		"alias": "",
+		"text": "Which data gathering method might you associate with a distributed cognition analysis of a computer system?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790120",
+				"alias": null,
+				"text": "Interviews",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790121",
+				"alias": null,
+				"text": "Focus Groups",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790122",
+				"alias": null,
+				"text": "Wizard of Oz",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790123",
+				"alias": null,
+				"text": "Direct Observation",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 1,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732023",
+		"alias": "",
+		"text": "Which of the following is/are indirect forms of observation?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790237",
+				"alias": null,
+				"text": "Web analytics (e.g. Google Analytics)",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790238",
+				"alias": null,
+				"text": "Focus groups",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790239",
+				"alias": null,
+				"text": "Analysis of software log files",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790240",
+				"alias": null,
+				"text": "Observing a user from behind a mirror",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 1,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	},
+	{
+		"@type": "MultipleChoiceQuestion",
+		"lowerCaseAlias": "",
+		"id": "1732060",
+		"alias": "",
+		"text": "The \"system image\" is best described as which of the following?",
+		"image": null,
+		"choices": [
+			{
+				"id": "6790365",
+				"alias": null,
+				"text": "The conceptual model that is embedded into a built system",
+				"isCorrectAnswer": true,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790366",
+				"alias": null,
+				"text": "The conceptual model that's formed by a user as they use a system",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790367",
+				"alias": null,
+				"text": "The designer's proposal for how a system should be built",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			},
+			{
+				"id": "6790368",
+				"alias": null,
+				"text": "The designer's evaluation of a system",
+				"isCorrectAnswer": false,
+				"excludeFromResults": false,
+				"image": null
+			}
+		],
+		"minNumberSelections": 1,
+		"maxNumberSelections": 1,
+		"resultFormat": "%",
+		"distributableWeight": null,
+		"weightingSetting": null,
+		"weightingFactor": null,
+		"correctAnswerExplanation": null
+	}
+]
